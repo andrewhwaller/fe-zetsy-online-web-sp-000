@@ -35,3 +35,7 @@ h1 {
 	font-weight: normal;
 	font-family: 'Baskerville', serif;
 }
+
+section.featured img {
+	border: 1px solid #ddd;
+}
