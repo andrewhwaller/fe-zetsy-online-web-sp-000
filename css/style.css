@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 
 header {
-	background: #F3EBE9;
+	color: rgb(152,173,166)
 	font-family: 'Baskerville', serif;
 	font-size: 100%;
 }
