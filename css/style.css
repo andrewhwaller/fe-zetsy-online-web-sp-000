@@ -24,3 +24,9 @@ header {
 	font-family: 'Baskerville', serif;
 	font-size: 100%;
 }
+
+h1 {
+	font-size: 5em;
+	font-weight: normal;
+	font-family: 'Baskerville', serif;
+}
